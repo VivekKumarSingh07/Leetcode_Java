@@ -1,4 +1,4 @@
-# Leetcode_Java
+# Leetcode Java
 Solving the leetcode problems in Java.
 
 To make and create PRs the following rules should be followed:
