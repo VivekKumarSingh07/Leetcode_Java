@@ -2,7 +2,7 @@
 Solving the leetcode problems in Java.
 
 To make and create PRs the following rules should be followed:
-1. Filenames should be the problem number followed by the problem name.
+1. Filenames should be the problem number followed by the problem name with *.java* extension.
 2. All algorithm questions should be in that folder.
 3. The link for the problem should be at the top of the program file.
 4. Following the link should be problem statement and Example (if any).
